@@ -6,7 +6,7 @@
 <img src="https://cdn-icons-png.flaticon.com/512/5722/5722057.png" height = "100">
 
 ##
-  <img src ="https://i.gifer.com/origin/0a/0a6246318077e29154d87bb9a30478fb_w200.gif" height ="50"> Estudando... <img src="https://cdn-icons-png.flaticon.com/512/1645/1645943.png" height="40">
+  <img src ="https://i.gifer.com/origin/0a/0a6246318077e29154d87bb9a30478fb_w200.gif" height ="50" width = "50"> Estudando... <img src="https://cdn-icons-png.flaticon.com/512/1645/1645943.png" height="40">
 ##
  <div>
   <a href ="https://beacons.ai/GatoAmarelo">
