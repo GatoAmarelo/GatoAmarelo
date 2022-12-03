@@ -12,6 +12,7 @@
  <div>
   <a href ="https://beacons.ai/GatoAmarelo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GatoAmarelo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/5722/5722362.png" height="100">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GatoAmarelo&layout=compact&langs_count=16&theme=dracula"/>
  </div>
 
