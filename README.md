@@ -10,11 +10,12 @@
   <img src ="https://i.gifer.com/origin/0a/0a6246318077e29154d87bb9a30478fb_w200.gif" height ="50" width = "50"> Estudando... <img src="https://cdn-icons-png.flaticon.com/512/1645/1645943.png" height="40">
 ##
  <div>
-  <a href ="https://beacons.ai/GatoAmarelo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GatoAmarelo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=GatoAmarelo&show_icons=true&theme=dracula">
   <img src="https://cdn-icons-png.flaticon.com/512/5722/5722362.png" height="100">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GatoAmarelo&layout=compact&langs_count=16&theme=dracula"/>
  </div>
+   
+   
 
 
   <h2>🌟Contato :</h2>
