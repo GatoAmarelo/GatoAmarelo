@@ -1,9 +1,9 @@
 ### Olá! Eu sou Anabel Marinho 
 
 <div align="first">
-<img src="https://cdn-icons-png.flaticon.com/512/5722/5722057.png" height = "100">
-<img src="https://cdn-icons-png.flaticon.com/512/763/763763.png" height = "100">
-<img src="https://user-images.githubusercontent.com/111796062/205451601-391d3015-ebec-4a68-939a-3f7157c2487d.png" height=110/>
+<img src="https://images.vexels.com/media/users/3/283646/isolated/lists/56e3fd9dbb2d047edf9efd0f4544e8c7-dia-dos-namorados-a-cone-de-coraa-a-o-fofo.png" height = "60"> 
+<img src="https://static.wikia.nocookie.net/projectcrusade/images/a/a6/Chopper.png/revision/latest?cb=20191020174541" height = "100">
+<img src="https://static.vecteezy.com/system/resources/previews/010/792/482/non_2x/cute-rabbit-head-cartoon-element-free-png.png" height=110/><br>
 <img src="https://cdn-icons-png.flaticon.com/512/4019/4019665.png"height="40"><img src="https://cdn-icons-png.flaticon.com/512/4019/4019855.png"height="40"><img src="https://cdn-icons-png.flaticon.com/512/4019/4019665.png"height="40"><img src="https://cdn-icons-png.flaticon.com/512/4019/4019675.png"height="40"><img src="https://cdn-icons-png.flaticon.com/512/4019/4019733.png"height="40"><img src="https://cdn-icons-png.flaticon.com/512/4019/4019828.png"height="40">
 
 ##
@@ -14,7 +14,6 @@
   <img src="https://cdn-icons-png.flaticon.com/512/5722/5722362.png" height="100">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GatoAmarelo&layout=compact&langs_count=16&theme=dracula"/>
  </div>
-   
    
 
 
