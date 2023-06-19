@@ -20,12 +20,16 @@
   <h2>🌟Contato :</h2>
   <a href ="mailto:anabel.soares2001@gmail.com"> <img src="https://cdn-icons-png.flaticon.com/512/8367/8367896.png" height = "60"></a>
   <h2>🌟Linguagens que tenho interesse :</h2> 
-  <img src = "https://cdn-icons-png.flaticon.com/512/4661/4661331.png" height="60">
   <img src = "https://cdn-icons-png.flaticon.com/512/1891/1891365.png" height="60">
   <img src ="https://cdn-icons-png.flaticon.com/512/5741/5741804.png" height="60">
   <img src ="https://cdn-icons-png.flaticon.com/512/3097/3097978.png" height="60">
+  <img src = "https://cdn-icons-png.flaticon.com/512/4661/4661331.png" height="60">
+  <img src="https://cdn-icons-png.flaticon.com/512/9496/9496483.png" height="60">
+  <img src="https://cdn-icons-png.flaticon.com/512/337/337953.png" width="60" heigth="60">
   <br>
 
   <img src ="https://pa1.narvii.com/6796/edebf28b87e5686509f519482fcbe6fd43245598_hq.gif">
+
+  
 
 
